@@ -18,16 +18,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     # or
     yarn dev
     ```
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-First, run the development server:
-
-```bash
-npm install
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
