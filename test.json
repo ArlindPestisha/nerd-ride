@@ -1,0 +1,30 @@
+[
+  {
+    "Date": "24.11.2021",
+    "Time": "11:42",
+    "Speed": 7.2,
+    "Voltage": 54.65,
+    "PWM": 22.13,
+    "Current": 6.31,
+    "Power": 344.84,
+    "Battery level": 85,
+    "Totalmileage": 2556.34,
+    "Temperature": 22,
+    "Pitch": 0,
+    "Roll": 0
+  },
+  {
+    "Date": "24.11.2021",
+    "Time": "11:54",
+    "Speed": 0,
+    "Voltage": 54.02,
+    "PWM": 0,
+    "Current": 0.1,
+    "Power": 5.4,
+    "Battery level": 76,
+    "Totalmileage": 2559.811,
+    "Temperature": 23,
+    "Pitch": 0,
+    "Roll": 0
+  }
+]

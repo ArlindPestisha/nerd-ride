@@ -1,0 +1,19 @@
+.container {
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+flex-wrap: wrap;
+}
+
+.data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 200px;
+  
+}
+
+.data h5 {
+  font-weight: lighter;
+}
