@@ -13,8 +13,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
- My goal with the code side of the case task was to stay as close as possible to native apps for mobile so when you run the code locally please in your developer tools set the responsiveness mode to mobile phone (iPhone) and not web. 
+My goal with the code side of the case task was to stay as close as possible to native apps for mobile so when you run the code locally please in your developer tools set the responsiveness mode to mobile phone (iPhone) and not web. 
 
 Whene you land to the profile page to go the next page(Rides Histories) please click one the text 'Ride History' or on the arrow icon '>'.
