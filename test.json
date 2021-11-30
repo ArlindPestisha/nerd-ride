@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "Date": "24.11.2021",
     "Time": "11:42",
     "Speed": 7.2,
@@ -14,7 +15,7 @@
     "Roll": 0
   },
   {
-    "Date": "24.11.2021",
+    "id": 2,
     "Time": "11:54",
     "Speed": 0,
     "Voltage": 54.02,
@@ -22,7 +23,7 @@
     "Current": 0.1,
     "Power": 5.4,
     "Battery level": 76,
-    "Totalmileage": 2559.811,
+    "Totalmileage2": 2559.811,
     "Temperature": 23,
     "Pitch": 0,
     "Roll": 0
