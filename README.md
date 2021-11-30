@@ -2,6 +2,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 First, run the development server:
 
 ```bash
